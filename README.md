@@ -17,8 +17,8 @@ A Flutter application that transforms your reading experience by not only displa
 To get started with this project, clone the repository and load it into your Flutter environment.
 
 ```bash
-git clone https://github.com/bhskr44/epub-reader-with-tts.git
-cd epub-reader-with-tts
+git clone https://github.com/bhskr44/flutter_ebook_reader.git
+cd flutter_ebook_reader
 flutter pub get
 flutter run
 ```
